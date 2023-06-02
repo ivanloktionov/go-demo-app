@@ -10,7 +10,7 @@ front:
   replicas: 1
   canary: 0
   header: ""
-  port: 9999
+  port: 8080
   tag: front-v3.0.2
 api:
   replicas: 1
