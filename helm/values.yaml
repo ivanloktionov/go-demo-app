@@ -1,5 +1,5 @@
 app:
-  name: k8sdiyTEST
+  name: k8sdiy
   version: v4
   port: 80
 image:
@@ -10,7 +10,7 @@ front:
   replicas: 1
   canary: 0
   header: ""
-  port: 8080
+  port: 9999
   tag: front-v3.0.2
 api:
   replicas: 1
