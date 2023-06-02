@@ -1,5 +1,5 @@
 app:
-  name: k8sdiy
+  name: k8sdiyTEST
   version: v4
   port: 80
 image:
